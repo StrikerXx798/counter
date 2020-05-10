@@ -1,0 +1,14 @@
+.button {
+    border: 0;
+    background-color: #61dafb;
+    width: 100px;
+    height: 60px;
+    text-decoration-color: #282c34;
+    border-radius: 6%;
+    font-size: 2.0vw;
+    position: center;
+}
+
+.buttonFilter {
+    display: none;
+}

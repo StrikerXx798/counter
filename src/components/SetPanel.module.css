@@ -1,0 +1,58 @@
+.setPanel {
+    height: 300px;
+    width: 350px;
+    border: 3px solid #61dafb;
+    border-radius: 2%;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.setInput {
+    height: 60%;
+    width: 95%;
+    border: 3px solid #61dafb;
+    margin: 3%;
+    display: flex;
+    align-items: center;
+    border-radius: 2%;
+    justify-content: space-around;
+    flex-direction: column;
+    color: #61dafb;
+    font-weight: bold;
+    font-size: large;
+}
+
+.input {
+    margin-left: 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid #61dafb;
+    border-radius: 3%;
+}
+
+.max {
+    margin-left: 5px;
+}
+
+.inputError {
+    margin-left: 10px;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid #fa4747;
+    border-radius: 3%;
+    background-color: #f8776c;
+}
+
+.buttons {
+    height: 40%;
+    border: 3px solid #61dafb;
+    width: 95%;
+    margin: 3%;
+    display: flex;
+    align-items: center;
+    border-radius: 3%;
+    justify-content: center;
+}

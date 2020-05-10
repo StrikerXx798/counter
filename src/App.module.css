@@ -1,0 +1,7 @@
+.App {
+    height: 100vh;
+    background-color: #282c34;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}

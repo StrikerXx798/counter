@@ -1,0 +1,26 @@
+.numberCount {
+    height: 60%;
+    background-color: #61dafb;
+    width: 95%;
+    margin: 3%;
+    display: flex;
+    align-items: center;
+    border-radius: 2%;
+    justify-content: center;
+    font-size: 3em;
+    text-align: center;
+}
+.maxFilter {
+    height: 60%;
+    background-color: #61dafb;
+    width: 95%;
+    margin: 3%;
+    display: flex;
+    align-items: center;
+    border-radius: 2%;
+    justify-content: center;
+    font-size: 3.5em;
+    font-weight: 600;
+    color: #e03526;
+    text-align: center;
+}
