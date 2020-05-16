@@ -9,8 +9,6 @@ class Counter extends React.Component {
             <div className={s.counter}>
                 <NumberCount
                     styleCounter={this.props.styleCounter}
-                    currentValue={this.props.state.currentValue}
-                    maxValue={this.props.state.maxValue}
                 />
                 <div className={s.buttons}>
                     <Button disable={this.props.disabledInc}
