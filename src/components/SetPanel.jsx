@@ -39,6 +39,7 @@ class SetPanel extends React.Component {
 
 const  mstp = (state) => {
     return {
+        currentValue: state.currentValue,
         maxValue: state.maxValue,
         minValue: state.minValue
     }
